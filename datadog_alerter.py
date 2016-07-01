@@ -9,8 +9,8 @@ GREEN = 22
 BLUE = 24
 
 options = {
-    'api_key': '51b38a446a3d1e0f416a0ac5f872309a',
-    'app_key': 'eddbc05f9524a136e03bbf00f89b573cc5876578'
+    'api_key': '',
+    'app_key': ''
 }
 
 ignore_monitors = ('[Auto] Clock in sync with NTP',  'Connections to DB are present')
